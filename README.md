@@ -40,5 +40,5 @@ require 'spree_smart_free_shipping/factories'
 Copyright (c) 2015 Dynamo, released under the New BSD License
 
 
-
+# Note from Quesurfin
 ## My changes include making this avalible for Spree 3.1.5 as the gem is compatible
